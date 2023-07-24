@@ -8,7 +8,7 @@
 * Related Document: See README.md
 *
 *******************************************************************************
-* $ Copyright 2021 Cypress Semiconductor $
+* $ Copyright 2021-2023 Cypress Semiconductor $
 *******************************************************************************/
 
 #include "cybsp.h"
@@ -32,7 +32,7 @@
 * Function Name: main
 ********************************************************************************
 * Summary:
-*   This is the main function for the CPU. It configures and start the PWM .
+*   This is the main function for the CPU. It configures and start the PWM.
 *
 * Parameters:
 *  void
